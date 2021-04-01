@@ -679,6 +679,24 @@ a {
 p {
     font-size: 11px;
 }
+.slogan {
+    font-size: 22px;
+    line-height: 1.4em;
+    color: #717272!important;
+}
+.citation {
+    font-size: 22px;
+    line-height: 1.4em;
+    color: #717272!important;
+    font-style: italic;
+}
+
+.citation-aut {
+    font-size: 16px;
+    line-height: 1.4em;
+    color: #717272!important;
+    
+}
 
 .tight-width-whitespace {
     max-width: 600px;
