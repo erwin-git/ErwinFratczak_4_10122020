@@ -682,19 +682,19 @@ p {
 .slogan {
     font-size: 22px;
     line-height: 1.4em;
-    color: #717272!important;
+    color: #575757
 }
 .citation {
     font-size: 22px;
     line-height: 1.4em;
-    color: #717272!important;
+    color: #575757
     font-style: italic;
 }
 
 .citation-aut {
     font-size: 16px;
     line-height: 1.4em;
-    color: #717272!important;
+    color: #575757
     
 }
 
@@ -722,12 +722,12 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+.slogan2 {
     font-size: 22px;
     line-height: 1.4em;
 }
 
-h3 {
+h2, h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
