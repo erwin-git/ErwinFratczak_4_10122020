@@ -653,7 +653,9 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
-
+.footer-col{
+    color: #FFFFFF!important;
+}
 .container {
     max-width: 1000px;
 }
@@ -785,11 +787,11 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #424242;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C54D16;
 }
 
 .tc-white {
@@ -797,7 +799,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C54D16;
     color: #FFFFFF!important;
 }
 
